@@ -12,7 +12,7 @@
 
 > ABOUT ME 
 
-* **Name:** Sikarin Samngamthong
+* **Name:** Sikarinn Samngamthong
 * **Student ID:** 6210110342  
 * **Birth Date:** 23 Feb. 2001
 * **Age:** 20 years old
