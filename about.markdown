@@ -60,7 +60,7 @@
 
 
 <br> 
- 
+
 > CONTACT ME  
 
 <center>
@@ -123,10 +123,8 @@
 
 
 <p align="center">
-    <br>- Link Video Youtube -
-
-   [![](image\arti1.png )](https://www.youtube.com/watch?v=DRK3gFWuuiI)
-   <br>**MISS UNIVERSE 2021: รอบตัดสิน|คำถาม**
+    <br>- Link Video Youtube -  
+    https://www.youtube.com/watch?v=DRK3gFWuuiI
 </p>
   
 > Thank you for information
