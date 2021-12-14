@@ -57,7 +57,6 @@
     <b>"Always be hungry in what you wanna do,  take risks, work hard, and have no regrets"</b>
 </center>
 <br>  
-<br>
 
 
 
