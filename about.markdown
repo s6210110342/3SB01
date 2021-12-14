@@ -1,7 +1,4 @@
-<center>
-
 # PERSONAL DATA
-</center>
 
 <p align="center">
   <img src="image/profile.jpg">
@@ -77,14 +74,8 @@
 
 
 <!--news--->
-
-</center>
-
 ---  
-<center>
-
-# ARTICAL
-</center>  
+# ARTICAL  
 
 ## 1. ฟังชัดๆ!คำตอบ ‘ฮาร์นาซ สันธู’ Miss Universe 2021    สุดปังจนคว้ามง
 
